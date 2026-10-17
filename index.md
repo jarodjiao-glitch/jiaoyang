@@ -9,7 +9,7 @@ title: Home
   <img
     src="avatar.jpg"
     alt="JiaoYang's photo"
-    style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover;"
+    style="width: 160px; height: 160px; border-radius: 60%; object-fit: cover;"
   >
   <p>Learning, creating, and sharing.</p>
 </div>
