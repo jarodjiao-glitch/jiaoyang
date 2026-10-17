@@ -5,6 +5,8 @@ title: Home
 
 # Hi, I'm JiaoYang 👋
 
+<img src="avatar.jpg" alt="JiaoYang's photo" width="160">
+
 Welcome to my personal website!
 
 I'm learning how to use GitHub. This is where I share my learning journey, projects, and everyday experiences.
