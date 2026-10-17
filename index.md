@@ -5,7 +5,14 @@ title: Home
 
 # Hi, I'm JiaoYang 👋
 
-<img src="avatar.jpg" alt="JiaoYang's photo" width="160">
+<div style="text-align: center; margin: 24px 0;">
+  <img
+    src="avatar.jpg"
+    alt="JiaoYang's photo"
+    style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover;"
+  >
+  <p>Learning, creating, and sharing.</p>
+</div>
 
 Welcome to my personal website!
 
