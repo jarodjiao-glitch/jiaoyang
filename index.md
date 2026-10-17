@@ -26,9 +26,24 @@ I'm learning how to use GitHub. This is where I share my learning journey, proje
 
 ## My Projects
 
-### Personal Website
-This is my first website built with GitHub Pages. I'll continue to improve it as I learn.
+### 🌐 Personal Website
 
-## Contact Me
+My first website, built with GitHub Pages and Jekyll.
+A place to share my learning journey and creative work.
 
-Visit my [GitHub profile](https://github.com/jarodjiao-glitch).
+[View the source code →](https://github.com/jarodjiao-glitch/jiaoyang)
+
+### 🌱 What's Next?
+
+I'm exploring new ideas. More projects will appear here as I learn!
+
+## Get in Touch
+
+Interested in my work? Find me on GitHub!
+
+<p style="text-align: center; margin: 24px 0;">
+  <a href="https://github.com/jarodjiao-glitch"
+     style="display: inline-block; padding: 12px 24px; background: #159957; color: white; border-radius: 8px; text-decoration: none;">
+    Visit My GitHub
+  </a>
+</p>
