@@ -39,13 +39,13 @@ I'm exploring new ideas. More projects will appear here as I learn!
 
 ## 🎬 My AI Videos
 
-### A World Imagined by AI
+### 1. A World Imagined by AI
 
 An AI-generated short film exploring imagination and creativity.
 
 [▶ Watch the video](https://share.synthesia.io/ccbcc95d-0408-5ef2-a861-28841165e4be)
 
-### My Second AI Video — Created with Synthesia
+### 2. My Second AI Video — Created with Synthesia
 
 Another step in my AI video creation journey.
 
