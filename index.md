@@ -45,6 +45,12 @@ An AI-generated short film exploring imagination and creativity.
 
 [▶ Watch the video](https://share.synthesia.io/ccbcc95d-0408-5ef2-a861-28841165e4be)
 
+### My Second AI Video — Created with Synthesia
+
+Another step in my AI video creation journey.
+
+[▶ Watch my second AI video](https://share.synthesia.io/86b59cfb-e71d-4a68-9b35-5035f6fea9a6)
+
 ## Get in Touch
 
 Interested in my work? Find me on GitHub!
